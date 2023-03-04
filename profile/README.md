@@ -23,3 +23,5 @@
 
 - Website : https://tech.csku.in.th/
 - Email : tech.kuclub@gmail.com
+- Ig : https://instagram.com/ku.t3ch
+- Facebook : https://www.facebook.com/profile.php?id=100090902166797

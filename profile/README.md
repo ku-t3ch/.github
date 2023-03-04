@@ -1,4 +1,8 @@
-![](../KU-TECH-Logo.png)
+<p align="center">
+  <a href="https://tech.csku.in.th">
+    <img src="https://github.com/t3ch-ku/.github/raw/main/profile/assets/KU-TECH-Logo.png" width="500"/>
+  </a>
+</p>
 
 ชมรม KU Tech ประกาศรับสมัครสมาชิกรุ่นแรก เพื่อขอจัดตั้งกลุ่มกิจกรรม (ชมรม) กับอบก. โดยไม่จำกัดจำนวน คณะ, สาขา เพราะเราชื่อว่าทุกคนพัฒนาตัวเองได้ตลอดเวลา !
 

@@ -17,7 +17,7 @@
 
 ## ✉️ เข้าชมรม
 
-Line Group Member : https://tech.csku.in.th/join
+ลิงก์ : https://tech.csku.in.th/join
 
 ## ติดตามเราได้ที่
 

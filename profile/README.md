@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tech.csku.in.th">
-    <img src="https://github.com/t3ch-ku/.github/raw/main/profile/assets/KU-TECH-Logo.png" width="500"/>
+    <img src="https://github.com/t3ch-ku/.github/raw/main/profile/assets/KU-TECH-Logo.png" width="200"/>
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## ✉️ เข้าชมรม
 
-Line Group Member : https://line.me/ti/g/mpcZOXKJaN
+Line Group Member : https://tech.csku.in.th/join
 
 ## ติดตามเราได้ที่
 

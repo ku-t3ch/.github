@@ -22,6 +22,6 @@
 ## ติดตามเราได้ที่
 
 - Website : https://tech.csku.in.th/
-- Email : tech.kuclub@gmail.com
+- Email : ku.t3ch@gmail.com
 - Ig : https://instagram.com/ku.t3ch
 - Facebook : https://www.facebook.com/profile.php?id=100090902166797

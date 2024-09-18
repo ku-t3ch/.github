@@ -1,6 +1,7 @@
 # KU Tech    ![Hits](https://hits.sh/github.com/Ku-t3ch/.github.svg?style=flat-square&label=Visitors&extraCount=0)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/752a5a60-bad9-4b26-b080-ad117941f86b" alt="KU Tech">
+  <img src="https://github.com/user-attachments/assets/0664386b-fbaa-4100-a6d4-92ab75fd8ab6" alt="KU Tech">
+
 </div>
 
 <br/>
